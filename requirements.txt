@@ -1,0 +1,7 @@
+numpy
+pytorch
+gym==0.17.3
+#ppaquette-gym-doom #https://github.com/ppaquette/gym-doom
+#https://github.com/mwydmuch/ViZDoom
+vizdoom
+scikit-image
